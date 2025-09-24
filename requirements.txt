@@ -1,0 +1,20 @@
+# Requirements for SVG Security Analysis Toolkit
+# Core dependencies for all tools
+
+# Required for turnstile_probe.py (cf_probe.py)
+requests>=2.31.0
+
+# Optional but recommended for turnstile_probe.py - brotli compression support
+brotli>=1.0.9
+# Alternative brotli implementation (use one of these)
+# brotlicffi>=1.0.9.2
+
+# Development and testing dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Note: dynamic.py (extract_dynamic.py) requires box-js to be installed globally:
+# npm install -g box-js
+
+# extract.py has no external dependencies (uses only Python standard library)
+# encoder.py has no external dependencies (uses only Python standard library)
